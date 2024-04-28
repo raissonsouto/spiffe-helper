@@ -1,5 +1,4 @@
 vendor
-/spiffe-helper*
 /artifacts
 /releases
 rpm/*.rpm
